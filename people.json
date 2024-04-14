@@ -1,0 +1,49 @@
+[
+  {
+    "FirstName": "Amanda",
+    "LastName": "Halley",
+    "Age": "26",
+    "Pet": "True",
+    "PetType": "dog",
+    "PetName": "Abby",
+    "Hobby": "Gym"
+  },
+
+  {
+    "FirstName": "Carson",
+   "LastName": "Thorne",
+   "Age": "30",
+   "Pet": "True",
+   "PetType": "Dog",
+   "PetName": "Lexi",
+   "Hobby": "SkateBoarding"
+  },
+
+  {
+    "FirstName": "Lauren",
+   "LastName":"Drohan",
+   "Age": "26",
+   "Pet": "True",
+   "PetType": "dog",
+   "PetName": "buddy",
+   "Hobby": "Gaming"
+  },
+
+  {
+    "FirstName": "Emily",
+   "LastName": "Bishop",
+   "Age": "28",
+   "Pet": "True",
+   "PetType": "cat",
+   "PetName": "Bobby",
+   "Hobby": "Hiking"
+  },
+
+  {
+    "FirstName": "Brianna",
+   "LastName": "Bishop",
+   "Age": "29",
+   "Pet": "False",
+   "Hobby": "Knitting"
+  }
+]
